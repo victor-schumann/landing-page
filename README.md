@@ -1,4 +1,4 @@
-# Landing Page Project
+# Landing Page Project (Aug 2022)
 Here I plan &amp; organize files related to the second project of the "Odin Project" course.
 
 <p align="center"> 
